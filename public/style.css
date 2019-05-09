@@ -1,0 +1,17 @@
+.frontText {
+  font-family: "Paytone One";
+  /* color: #202020; */
+  text-transform: uppercase;
+  letter-spacing: -2px;
+}
+
+.frontText span {
+  display: block;
+  margin: 11px 0 17px 0;
+  font-size: 7vw;
+  line-height: 7vw;
+  color: #f1ebe5;
+  text-shadow: 0 1.5vw 1vw #c4b59d,0 -1vw 1vw #fff;
+  letter-spacing: -0.5vw;
+}
+
