@@ -20,7 +20,7 @@
     "express-flash": "0.0.2",
     "express-myconnection": "^1.0.4",
     "express-session": "^1.16.1",
-    "express-validator": "^3.2.0",
+    "express-validator": "^7.3.1",
     "method-override": "^3.0.0",
     "mysql": "*",
     "path": "^0.12.7"
